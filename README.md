@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <a href="https://vvs1.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"></a> 
 
 ### 🐱 Tech Stacks
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white"> 
