@@ -46,5 +46,3 @@ Here are some ideas to get you started:
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysh321&layout=compact&theme=cobalt" 
        height="150px"/>
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=i_y)](https://solved.ac/i_y/)
