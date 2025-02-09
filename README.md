@@ -36,13 +36,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
   </p>
   
-<p>
-  <img
-       align="left"
-       src="https://github-readme-stats.vercel.app/api?username=iysh321&show_icons=true&layout=compact&theme=cobalt" 
-       height="150px"/>
 
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysh321&layout=compact&theme=cobalt" 
-       height="150px"/>
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=iysh321&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" width="41%" style="display: inline-block; border-radius: 12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysh321&layout=compact&theme=material-palenight&hide_border=true" width="45%" style="display: inline-block; margin-right: 2%; border-radius: 6px;"/>
+</div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiysh321&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
