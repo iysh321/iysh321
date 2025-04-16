@@ -42,4 +42,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysh321&layout=compact&theme=material-palenight&hide_border=true" width="37%" style="display: inline-block; margin-right: 2%; border-radius: 12px;"/>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiysh321&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
